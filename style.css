@@ -18,3 +18,11 @@ body {
 @-webkit-keyframes blink {
   to { visibility: hidden; }
 }
+
+h2 {
+    text-align:center;
+}
+
+img {
+    text-align:center;
+}
